@@ -2,7 +2,7 @@
 ### 📜 | Technical Documentation for the Login CMS System web application on the project "Projekt-na-praktyki - Login_CMS_System"
 ### ⚠ | UPDATE - 20.04.2023 
 
-
+<br><br>
 
 ## A | 1/2
 ### 🚧 | Requirements / Recommended / and Basic Info
