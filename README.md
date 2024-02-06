@@ -1,5 +1,6 @@
-# Projekt-na-praktyki
-Projekt który robię podczas praktyki w Akademia MArynarki Wojennej 
-
-# ~Powered By ScienceWolf 
-## https://github.com/ScienceWolf666
+# Projekt-Na-Praktyki-Dla-AMW
+### Projekt systemu zarządzania treścią ( CMS ) Stworzony dla Akademi Marynarki Wojennej w Gdyni
+---  
+Powered and Developed By ScienceWolf666 
+All rights reserved ®ScienceWolf 
+Copyright© 2019-2024 
